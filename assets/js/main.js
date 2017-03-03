@@ -38,7 +38,8 @@
 					breakpoint: 720,
 				    settings: {
 				        arrow: false,
-				        draggable: false
+				        draggable: false,
+				        swipe: false
 				    }
 				}
 			]
